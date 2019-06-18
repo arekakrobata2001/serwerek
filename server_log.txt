@@ -1,0 +1,829 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:43:58] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:27:34] filterscripts = ""  (string)
+[20:27:34] 
+[20:27:34] Server Plugins
+[20:27:34] --------------
+[20:27:34]  Loaded 0 plugins.
+
+[20:27:34] 
+[20:27:34] Filterscripts
+[20:27:34] ---------------
+[20:27:34]   Loaded 0 filterscripts.
+
+[20:27:34] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:37:06] filterscripts = ""  (string)
+[20:37:06] 
+[20:37:06] Server Plugins
+[20:37:06] --------------
+[20:37:06]  Loaded 0 plugins.
+
+[20:37:06] 
+[20:37:06] Filterscripts
+[20:37:06] ---------------
+[20:37:06]   Loaded 0 filterscripts.
+
+[20:37:06] 
+Gamemode  wersja  by Banan zostal pomyslnie wlaczony!
+, NAZWA_SERWERA, WERSJA_SERWERA
+[20:37:06] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:39:33] filterscripts = ""  (string)
+[20:39:33] 
+[20:39:33] Server Plugins
+[20:39:33] --------------
+[20:39:33]  Loaded 0 plugins.
+
+[20:39:33] 
+[20:39:33] Filterscripts
+[20:39:33] ---------------
+[20:39:33]   Loaded 0 filterscripts.
+
+[20:39:33] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[20:39:33] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:35:49] filterscripts = ""  (string)
+[23:35:49] 
+[23:35:49] Server Plugins
+[23:35:49] --------------
+[23:35:49]  Loaded 0 plugins.
+
+[23:35:49] 
+[23:35:49] Filterscripts
+[23:35:49] ---------------
+[23:35:49]   Loaded 0 filterscripts.
+
+[23:35:49] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[23:35:49] Number of vehicle models: 0
+[23:36:31] [connection] 127.0.0.1:59918 requests connection cookie.
+[23:36:32] [connection] incoming connection: 127.0.0.1:59918 id: 0
+[23:36:33] [join] Banan has joined the server (0:127.0.0.1)
+[23:40:46] [part] Banan has left the server (0:1)
+Console input: gmx
+[23:54:37] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[23:54:37] Number of vehicle models: 0
+[23:55:15] [connection] 127.0.0.1:56499 requests connection cookie.
+[23:55:16] [connection] incoming connection: 127.0.0.1:56499 id: 0
+[23:55:16] [join] Banan has joined the server (0:127.0.0.1)
+Console input: gmx
+[23:59:52] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[23:59:52] Number of vehicle models: 0
+Console input: GMX
+[00:32:44] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[00:32:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:48:08] filterscripts = ""  (string)
+[00:48:08] 
+[00:48:08] Server Plugins
+[00:48:08] --------------
+[00:48:08]  Loaded 0 plugins.
+
+[00:48:08] 
+[00:48:08] Filterscripts
+[00:48:08] ---------------
+[00:48:08]   Loaded 0 filterscripts.
+
+[00:48:08] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[00:48:08] Number of vehicle models: 0
+[00:48:22] [connection] 127.0.0.1:49415 requests connection cookie.
+[00:48:23] [connection] incoming connection: 127.0.0.1:49415 id: 0
+[00:48:23] [join] Banan has joined the server (0:127.0.0.1)
+Console input: gmx
+Console input: gmx
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:48:51] filterscripts = ""  (string)
+[00:48:51] 
+[00:48:51] Server Plugins
+[00:48:51] --------------
+[00:48:51]  Loaded 0 plugins.
+
+[00:48:51] 
+[00:48:51] Filterscripts
+[00:48:51] ---------------
+[00:48:51]   Loaded 0 filterscripts.
+
+[00:48:51] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[00:48:51] Number of vehicle models: 0
+[00:48:59] [connection] 127.0.0.1:57950 requests connection cookie.
+[00:49:00] [connection] incoming connection: 127.0.0.1:57950 id: 0
+[00:49:00] [join] Banan has joined the server (0:127.0.0.1)
+Console input: gmx
+[00:50:54] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[00:50:54] Number of vehicle models: 0
+Console input: gmx
+[01:01:07] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[01:01:07] Number of vehicle models: 0
+Console input: gmx
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:25:22] filterscripts = ""  (string)
+[01:25:22] 
+[01:25:22] Server Plugins
+[01:25:22] --------------
+[01:25:22]  Loaded 0 plugins.
+
+[01:25:22] 
+[01:25:22] Filterscripts
+[01:25:22] ---------------
+[01:25:22]   Loaded 0 filterscripts.
+
+[01:25:22] Folder  istnieje w folderze scriptfiles i jest gotowy do wczytania kont!, FOLDER_KONT
+[01:25:22] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[01:25:22] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:28:08] filterscripts = ""  (string)
+[01:28:08] 
+[01:28:08] Server Plugins
+[01:28:08] --------------
+[01:28:08]  Loaded 0 plugins.
+
+[01:28:08] 
+[01:28:08] Filterscripts
+[01:28:08] ---------------
+[01:28:08]   Loaded 0 filterscripts.
+
+[01:28:08] Folder /Konta/ istnieje w folderze scriptfiles i jest gotowy do wczytania kont!
+[01:28:08] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[01:28:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:28:57] filterscripts = ""  (string)
+[01:28:57] 
+[01:28:57] Server Plugins
+[01:28:57] --------------
+[01:28:57]  Loaded 0 plugins.
+
+[01:28:57] 
+[01:28:57] Filterscripts
+[01:28:57] ---------------
+[01:28:57]   Loaded 0 filterscripts.
+
+[01:28:57] Folder /Konta/ istnieje w folderze scriptfiles i jest gotowy do wczytania kont!
+[01:28:57] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[01:28:57] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:31:54] filterscripts = ""  (string)
+[01:31:54] 
+[01:31:54] Server Plugins
+[01:31:54] --------------
+[01:31:54]  Loaded 0 plugins.
+
+[01:31:55] 
+[01:31:55] Filterscripts
+[01:31:55] ---------------
+[01:31:55]   Loaded 0 filterscripts.
+
+[01:31:55] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[01:31:55] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[01:31:55] Number of vehicle models: 0
+Console input: gmx
+[01:56:56] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[01:56:56] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[01:56:56] Number of vehicle models: 0
+[01:57:10] [connection] 127.0.0.1:55497 requests connection cookie.
+[01:57:11] [connection] incoming connection: 127.0.0.1:55497 id: 0
+[01:57:11] [join] Banan has joined the server (0:127.0.0.1)
+Console input: gmx
+[02:44:50] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[02:44:50] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[02:44:50] Number of vehicle models: 0
+Console input: GMX
+[03:19:55] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[03:19:55] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[03:19:55] Number of vehicle models: 0
+Console input: gmx
+[03:56:52] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[03:56:52] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[03:56:52] Number of vehicle models: 0
+Console input: gmx
+[04:17:25] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[04:17:25] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[04:17:25] Number of vehicle models: 0
+Console input: gmx
+[04:21:22] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[04:21:22] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[04:21:22] Number of vehicle models: 0
+[04:21:23] [part] Banan has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:54:09] filterscripts = ""  (string)
+[01:54:10] 
+[01:54:10] Server Plugins
+[01:54:10] --------------
+[01:54:10]  Loaded 0 plugins.
+
+[01:54:12] 
+[01:54:12] Filterscripts
+[01:54:12] ---------------
+[01:54:12]   Loaded 0 filterscripts.
+
+[01:54:12] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[01:54:12] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[01:54:12] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:04:43] filterscripts = ""  (string)
+[23:04:43] 
+[23:04:43] Server Plugins
+[23:04:43] --------------
+[23:04:43]  Loaded 0 plugins.
+
+[23:04:44] 
+[23:04:44] Filterscripts
+[23:04:44] ---------------
+[23:04:44]   Loaded 0 filterscripts.
+
+[23:04:44] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[23:04:44] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[23:04:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:20:15] filterscripts = ""  (string)
+[23:20:15] 
+[23:20:15] Server Plugins
+[23:20:15] --------------
+[23:20:15]  Loaded 0 plugins.
+
+[23:20:16] 
+[23:20:16] Filterscripts
+[23:20:16] ---------------
+[23:20:16]   Loaded 0 filterscripts.
+
+[23:20:16] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[23:20:16] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[23:20:16] Number of vehicle models: 0
+[23:22:09] [connection] 127.0.0.1:49734 requests connection cookie.
+[23:22:10] [connection] incoming connection: 127.0.0.1:49734 id: 0
+[23:22:10] [join] Banan has joined the server (0:127.0.0.1)
+[23:23:11] [part] Banan has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:28:06] filterscripts = ""  (string)
+[23:28:06] 
+[23:28:06] Server Plugins
+[23:28:06] --------------
+[23:28:06]  Loaded 0 plugins.
+
+[23:28:06] 
+[23:28:06] Filterscripts
+[23:28:06] ---------------
+[23:28:06]   Loaded 0 filterscripts.
+
+[23:28:06] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[23:28:06] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[23:28:06] Number of vehicle models: 0
+[23:28:32] [connection] 127.0.0.1:52310 requests connection cookie.
+[23:28:33] [connection] incoming connection: 127.0.0.1:52310 id: 0
+[23:28:33] [join] Banan has joined the server (0:127.0.0.1)
+[23:28:59] [part] Banan has left the server (0:1)
+[23:29:26] [connection] 127.0.0.1:64899 requests connection cookie.
+[23:29:27] [connection] incoming connection: 127.0.0.1:64899 id: 0
+[23:29:27] [join] rocket has joined the server (0:127.0.0.1)
+[23:30:02] [part] rocket has left the server (0:1)
+[23:34:45] [connection] 127.0.0.1:58816 requests connection cookie.
+[23:34:46] [connection] incoming connection: 127.0.0.1:58816 id: 0
+[23:34:46] [join] rocket has joined the server (0:127.0.0.1)
+[23:34:50] [part] rocket has left the server (0:2)
+[23:35:46] [connection] 127.0.0.1:49255 requests connection cookie.
+[23:35:47] [connection] incoming connection: 127.0.0.1:49255 id: 0
+[23:35:48] [join] Banan has joined the server (0:127.0.0.1)
+[23:38:04] [part] Banan has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:43:41] filterscripts = ""  (string)
+[23:43:41] 
+[23:43:41] Server Plugins
+[23:43:41] --------------
+[23:43:41]  Loaded 0 plugins.
+
+[23:43:42] 
+[23:43:42] Filterscripts
+[23:43:42] ---------------
+[23:43:42]   Loaded 0 filterscripts.
+
+[23:43:42] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[23:43:42] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[23:43:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:45:41] 
+[23:45:41] Server Plugins
+[23:45:41] --------------
+[23:45:41]  Loaded 0 plugins.
+
+[23:45:41] 
+[23:45:41] Filterscripts
+[23:45:41] ---------------
+[23:45:41]   Loading filterscript 'carspawner.amx'...
+[23:45:41]   Unable to load filterscript 'carspawner.amx'.
+[23:45:41]   Loaded 0 filterscripts.
+
+[23:45:41] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[23:45:41] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[23:45:41] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:47:48] 
+[23:47:48] Server Plugins
+[23:47:48] --------------
+[23:47:48]  Loaded 0 plugins.
+
+[23:47:48] 
+[23:47:48] Filterscripts
+[23:47:48] ---------------
+[23:47:48]   Loading filterscript 'carspawner.amx'...
+[23:47:48]  
+[23:47:48] Skrypt na spawnowanie pojazdow tylko RCON by Nickk888 zostal wlaczony!
+[23:47:48] Komenda to /V [IDPOJAZDU/NAZWAPOJAZDU]
+[23:47:48]  
+[23:47:48]   Loaded 1 filterscripts.
+
+[23:47:48] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[23:47:48] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[23:47:48] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:48:48] 
+[23:48:48] Server Plugins
+[23:48:48] --------------
+[23:48:48]  Loaded 0 plugins.
+
+[23:48:48] 
+[23:48:48] Filterscripts
+[23:48:48] ---------------
+[23:48:48]   Loading filterscript 'carspawner.amx'...
+[23:48:48]  
+[23:48:48] Skrypt na spawnowanie pojazdow tylko RCON by Nickk888 zostal wlaczony!
+[23:48:48] Komenda to /V [IDPOJAZDU/NAZWAPOJAZDU]
+[23:48:48]  
+[23:48:48]   Loaded 1 filterscripts.
+
+[23:48:48] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[23:48:48] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[23:48:48] Number of vehicle models: 0
+[23:49:14] [connection] 127.0.0.1:58905 requests connection cookie.
+[23:49:15] [connection] incoming connection: 127.0.0.1:58905 id: 0
+[23:49:16] [join] Banan has joined the server (0:127.0.0.1)
+Console input: GMX
+[23:50:03] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[23:50:03] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[23:50:03] Number of vehicle models: 0
+[23:52:47] RCON (In-Game): Player #0 (Banan) has logged in.
+Console input: GMX
+[00:04:25] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[00:04:25] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[00:04:25] Number of vehicle models: 0
+[00:06:34] RCON (In-Game): Player [Banan] sent command: login bananek190201
+[00:20:04] [part] Banan has left the server (0:1)
+Console input: gnx
+[00:26:02] [connection] 127.0.0.1:50669 requests connection cookie.
+[00:26:03] [connection] incoming connection: 127.0.0.1:50669 id: 0
+[00:26:03] [join] Banan has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:37:59] 
+[00:37:59] Server Plugins
+[00:37:59] --------------
+[00:37:59]  Loading plugin: whirlpool
+[00:38:00]  
+[00:38:00]  ==================
+[00:38:00]  
+[00:38:00]   Whirlpool loaded
+[00:38:00]  
+[00:38:00]  ==================
+[00:38:00]  
+[00:38:00]   Loaded.
+[00:38:00]  Loaded 1 plugins.
+
+[00:38:01] 
+[00:38:01] Filterscripts
+[00:38:01] ---------------
+[00:38:01]   Loading filterscript 'carspawner.amx'...
+[00:38:01]  
+[00:38:01] Skrypt na spawnowanie pojazdow tylko RCON by Nickk888 zostal wlaczony!
+[00:38:01] Komenda to /V [IDPOJAZDU/NAZWAPOJAZDU]
+[00:38:01]  
+[00:38:01]   Loaded 1 filterscripts.
+
+[00:38:01] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[00:38:01] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[00:38:01] Number of vehicle models: 8
+Console input: gmx
+[00:54:18] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[00:54:18] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[00:54:18] Number of vehicle models: 8
+Console input: gnx
+[00:55:24] [connection] 127.0.0.1:65106 requests connection cookie.
+[00:55:25] [connection] incoming connection: 127.0.0.1:65106 id: 0
+[00:55:35] [connection] incoming connection: 127.0.0.1:57144 id: 0
+[00:55:35] [join] Banan has joined the server (0:127.0.0.1)
+[01:01:19] --- Server Shutting Down.
+[01:01:19]  
+[01:01:19] Skrypt na spawnowanie pojazdow by Nickk888 zostal wylaczony!
+[01:01:19]  
+[01:01:19] [part] Banan has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:08:29] 
+[01:08:29] Server Plugins
+[01:08:29] --------------
+[01:08:29]  Loading plugin: whirlpool
+[01:08:30]  
+[01:08:30]  ==================
+[01:08:30]  
+[01:08:30]   Whirlpool loaded
+[01:08:30]  
+[01:08:30]  ==================
+[01:08:30]  
+[01:08:30]   Loaded.
+[01:08:30]  Loaded 1 plugins.
+
+[01:08:30] 
+[01:08:30] Filterscripts
+[01:08:30] ---------------
+[01:08:30]   Loading filterscript 'carspawner.amx'...
+[01:08:30]  
+[01:08:30] Skrypt na spawnowanie pojazdow tylko RCON by Nickk888 zostal wlaczony!
+[01:08:30] Komenda to /V [IDPOJAZDU/NAZWAPOJAZDU]
+[01:08:30]  
+[01:08:30]   Loaded 1 filterscripts.
+
+[01:08:30] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[01:08:30] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[01:08:30] Number of vehicle models: 8
+[01:09:54] [connection] 127.0.0.1:51086 requests connection cookie.
+[01:09:55] [connection] incoming connection: 127.0.0.1:51086 id: 0
+[01:09:55] [join] Banan has joined the server (0:127.0.0.1)
+[01:10:12] [part] Banan has left the server (0:1)
+[01:11:28] [connection] 127.0.0.1:54243 requests connection cookie.
+[01:11:29] [connection] incoming connection: 127.0.0.1:54243 id: 0
+[01:11:36] [join] Banan has joined the server (0:127.0.0.1)
+[01:12:01] [part] Banan has left the server (0:2)
+Console input: gmx
+[01:12:40] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[01:12:40] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[01:12:40] Number of vehicle models: 8
+Console input: gmx
+[01:12:59] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[01:12:59] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[01:12:59] Number of vehicle models: 8
+[01:14:37] [connection] 127.0.0.1:65390 requests connection cookie.
+[01:14:38] [connection] incoming connection: 127.0.0.1:65390 id: 0
+[01:14:38] [join] Banan has joined the server (0:127.0.0.1)
+[01:15:16] [part] Banan has left the server (0:1)
+[01:19:57] [connection] 127.0.0.1:55047 requests connection cookie.
+[01:19:58] [connection] incoming connection: 127.0.0.1:55047 id: 0
+[01:19:58] [join] Banan has joined the server (0:127.0.0.1)
+[01:21:02] [part] Banan has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:24:17] 
+[01:24:17] Server Plugins
+[01:24:17] --------------
+[01:24:17]  Loading plugin: whirlpool
+[01:24:17]  
+[01:24:17]  ==================
+[01:24:17]  
+[01:24:17]   Whirlpool loaded
+[01:24:17]  
+[01:24:17]  ==================
+[01:24:17]  
+[01:24:17]   Loaded.
+[01:24:17]  Loaded 1 plugins.
+
+[01:24:17] 
+[01:24:17] Filterscripts
+[01:24:17] ---------------
+[01:24:17]   Loading filterscript 'carspawner.amx'...
+[01:24:17]  
+[01:24:17] Skrypt na spawnowanie pojazdow tylko RCON by Nickk888 zostal wlaczony!
+[01:24:17] Komenda to /V [IDPOJAZDU/NAZWAPOJAZDU]
+[01:24:17]  
+[01:24:17]   Loaded 1 filterscripts.
+
+[01:24:17] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[01:24:17] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[01:24:17] Number of vehicle models: 8
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:02:34] 
+[02:02:34] Server Plugins
+[02:02:34] --------------
+[02:02:34]  Loading plugin: whirlpool
+[02:02:34]  
+[02:02:34]  ==================
+[02:02:34]  
+[02:02:34]   Whirlpool loaded
+[02:02:34]  
+[02:02:34]  ==================
+[02:02:34]  
+[02:02:34]   Loaded.
+[02:02:34]  Loaded 1 plugins.
+
+[02:02:35] 
+[02:02:35] Filterscripts
+[02:02:35] ---------------
+[02:02:35]   Loading filterscript 'carspawner.amx'...
+[02:02:35]  
+[02:02:35] Skrypt na spawnowanie pojazdow tylko RCON by Nickk888 zostal wlaczony!
+[02:02:35] Komenda to /V [IDPOJAZDU/NAZWAPOJAZDU]
+[02:02:35]  
+[02:02:35]   Loaded 1 filterscripts.
+
+[02:02:35] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[02:02:35] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[02:02:35] Number of vehicle models: 8
+[02:03:30] [connection] 127.0.0.1:54270 requests connection cookie.
+[02:03:31] [connection] incoming connection: 127.0.0.1:54270 id: 0
+[02:03:31] [join] Banan has joined the server (0:127.0.0.1)
+[02:03:54] [part] Banan has left the server (0:1)
+[02:04:21] --- Server Shutting Down.
+[02:04:21]  
+[02:04:21] Skrypt na spawnowanie pojazdow by Nickk888 zostal wylaczony!
+[02:04:21]  
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:04:23] 
+[02:04:23] Server Plugins
+[02:04:23] --------------
+[02:04:23]  Loading plugin: whirlpool
+[02:04:23]  
+[02:04:23]  ==================
+[02:04:23]  
+[02:04:23]   Whirlpool loaded
+[02:04:23]  
+[02:04:23]  ==================
+[02:04:23]  
+[02:04:23]   Loaded.
+[02:04:23]  Loaded 1 plugins.
+
+[02:04:23] 
+[02:04:23] Filterscripts
+[02:04:23] ---------------
+[02:04:23]   Loading filterscript 'carspawner.amx'...
+[02:04:23]  
+[02:04:23] Skrypt na spawnowanie pojazdow tylko RCON by Nickk888 zostal wlaczony!
+[02:04:23] Komenda to /V [IDPOJAZDU/NAZWAPOJAZDU]
+[02:04:23]  
+[02:04:23]   Loaded 1 filterscripts.
+
+[02:04:23] Folder /Konta/ istnieje i jest gotowy do wczytania kont!
+[02:04:23] 
+Gamemode Polski Super Serwer wersja 1.0 by Banan zostal pomyslnie wlaczony!
+
+[02:04:23] Number of vehicle models: 8
+[02:04:53] [connection] 127.0.0.1:55514 requests connection cookie.
+[02:04:54] [connection] incoming connection: 127.0.0.1:55514 id: 0
+[02:04:54] [join] Banan has joined the server (0:127.0.0.1)
+[02:05:56] [part] Banan has left the server (0:2)
